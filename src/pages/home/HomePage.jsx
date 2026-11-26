@@ -11,7 +11,7 @@ function HomePage(props) {
     <div>
       <p>{props.user.displayName} さん</p>
       <button onClick={logout}>ログアウト</button>
-      <h1>ホーム</h1>
+      <h1>カレンダー</h1>
     </div>
   );
 }

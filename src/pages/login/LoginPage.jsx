@@ -9,7 +9,7 @@ function LoginPage() {
 
   return (
     <div>
-      <h1>アプリの名前</h1>
+      <h1>推し活カレンダー</h1>
       <button onClick={login}>Google でログイン</button>
     </div>
   );
